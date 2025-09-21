@@ -1,5 +1,5 @@
 # CHOI SOYEONG 😉🌱
-![SOYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=leastzero&show_icons=true&theme=vue)
+![SOYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=leastzero&show_icons=true&theme=vue&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leastzero&layout=compact&theme=vue)
 
 # Tech_Stack 💪
