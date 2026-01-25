@@ -21,4 +21,4 @@ Hi, I'm Soyeong 👋<br />
 <br />
 
 # Contact ✉
-<a href="[(블로그, SNS 주소)](https://leastzero.tistory.com/)" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5746.svg?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="[(블로그, SNS 주소)](mailto:csong7177@naver.com)" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A.svg?style=flat-square&logo=Naver&logoColor=white"/></a> <a href="[(블로그, SNS 주소)](mailto:csong7177@gmail.com)" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://leastzero.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5746.svg?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="mailto:csong7177@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A.svg?style=flat-square&logo=Naver&logoColor=white"/></a> <a href="mailto:csong7177@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
