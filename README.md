@@ -11,6 +11,7 @@ Hi, I'm Soyeong 👋<br />
 
 ![SOYEONG's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=leastzero&show_icons=true&theme=vue&count_private=true)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leastzero&layout=compact&theme=vue)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leastzero)](https://solved.ac/leastzero/)
 
 <br />
 
