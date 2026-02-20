@@ -5,12 +5,18 @@ Hi, I'm Soyeong 👋<br />
 <br />
 
 ## About Me 🔍
+### Activities
 - GDSC SWU 2기 Android Member 수료 (2023.08-2024.07)
 - GDG SWU 3기 Android Core Member 수료 (2024.08-2025.07)
 - 현대오토에버 모빌리티 SW스쿨 3기 웹/앱 (2025.12-2026.06)
+<br />
 
+### Github Stats
 ![SOYEONG's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=leastzero&show_icons=true&theme=vue&count_private=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leastzero&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leastzero&layout=compact&theme=vue) <br />
+<br />
+
+### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leastzero)](https://solved.ac/leastzero/)
 
 <br />
